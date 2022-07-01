@@ -1,0 +1,3 @@
+# Attendance-Analysis
+[Study] Analyses how each class session contributes to the individual attendance percentage and how leaves affect the percentage and gives the next best day to take a day off without worrying about the attendance percentage
+Application that helps you maintain your college or university attendance, especially since there is a need to attend a minimum percentage of classes each semester or session by analysing data. Attendance and leaves are displayed along with a percentage and a status notifying how many classes you need to attend to satisfy the percentage criteria as a student. Timetable details can be entered, and editing is easy. Machine learning is applied to improve accuracy and detect trends. 
